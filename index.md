@@ -8,4 +8,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 - [x] Make awsome list
-- [] Make a ToDo-list
+- [ ] Make a ToDo-list
